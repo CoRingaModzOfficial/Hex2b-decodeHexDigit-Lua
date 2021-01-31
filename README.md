@@ -1,2 +1,2 @@
 # Hex2b-decodeHexDigit-Lua
-Ola
+Hex Lua
